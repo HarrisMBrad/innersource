@@ -7,6 +7,8 @@
 - [Advantages of adopting an InnerSource strategy](adopting-innersource-strategy/)
 - [Breaking down team silos](breaking-down-siolos/)
 - [GitHub overview](github-overview/)
+- **Make pull requsts from team-branch**
+_This will need to have two people review and accept the requst, then on to the dev-branch, then => master_
 
 ### Creating an InnerSource Culture
 
@@ -21,10 +23,14 @@
 - [Workflows](workflows/)
 - [Overcoming contributer friction](contributor-friction/)
 - [The Trusted Committer role (TC)](tc-role/)
+- **Make pull requsts from team-branch**
+_This will need to have two people review and accept the requst_
 
 ### Governance 
 
 - [Measuring success](metrics/)
 - [Rollout checklist](rollout-checklists/)
+- Once team-branch has two accepted mergers dev-branch will be pulled in and the dev-branch will update for the master branch to consider pulling if requested.
+This will will insure QA for now
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
